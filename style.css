@@ -72,6 +72,15 @@ button:hover {
     border: 1px solid #ccc;
 }
 
+footer {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 30px;
+    padding: 15px 0;
+    border-top: 1px solid #eee;
+    background-color: #f8f9fa;
+}
+
 /* Media Queries for Responsive Design */
 @media (max-width: 600px) {
     .electricity-bill {
@@ -99,9 +108,4 @@ button:hover {
     button {
         font-size: 16px;
     }
-}
-
-footer {
-    text-align: center;
-    font-size: 14px;
 }
